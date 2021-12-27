@@ -6,7 +6,7 @@ that allows a user to seach for a stock or crypto currency. The search uses an A
 response data. Pulls out the specific information we want to display to the user, and artfully yet efficiently displays that data on the page for the user. Previously searched ticker symbols are stored and displayed in modal cards below the user form, and persist in localStorage in the browser.
 
 ## Deployed URL:
-https://jacobryanhanson.github.io/finance-assistant/
+https://dylan-fair.github.io/finance-assistant/
 
 ## Screenshots
 ![alt text](./assets/images/top-of-page.png)
